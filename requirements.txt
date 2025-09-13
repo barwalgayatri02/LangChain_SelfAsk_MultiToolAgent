@@ -1,0 +1,6 @@
+langchain_community
+requests==2.32.4
+langchain_huggingface
+faiss-cpu
+langchain_groq
+langchain-google-genai
